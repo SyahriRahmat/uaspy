@@ -1,3 +1,16 @@
 # UAS Bahasa Pemrograman 1
 
-silakan tuliskan langkah-langkah disertai screenshotnya
+## Melakukan Fork Dan Clone Pada Github <h3>
+
+Langkah yang harus dilakukan adalah :
+1. copy url yang akan di `fork dan clone` `https://github.com/abuazzam/uaspy'
+2. Klik Logo yang menyerupai gambar garpu dengan dua sumbu, contohnya:
+![screenshoot](https://github.com/SyahriRahmat/uaspy/blob/master/fork.png)
+3. selanjutnya lakukan `clone` pada url tersebut, contohnya:
+![screenshoot](https://github.com/SyahriRahmat/uaspy/blob/master/clone%20git.png)
+4. selanjutnya masuklah ke direcectory yang diinginkan sebagai `Repository Lokal` 
+5. buat lah sebuah directory baru dengan nama uas
+6. pada directory yang sudah dibuat, lakukan `git clone https://github.com/abuazzam/uaspy.git`
+7. lakukan `pull` untuk menarik menjadi repository lokal `git pull`
+8. lakukan `push` untuk memposting.
+9. hasilnya adalah
