@@ -18,6 +18,9 @@ Langkah yang harus dilakukan adalah :
 
 ## Install Bahan Bahan <h3>
 1. lakukan konfigurasi di pycharm
+* lakukan konfigurasi, `virtualenv`
+![screenshoot](https://github.com/SyahriRahmat/uaspy/blob/master/screenshoot/konfigurasi.png)
+
 
 2. Install Bahan-Bahan.
 ![screenshoot](https://github.com/SyahriRahmat/uaspy/blob/master/screenshoot/install%20bahan.png)
