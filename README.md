@@ -14,3 +14,4 @@ Langkah yang harus dilakukan adalah :
 7. lakukan `pull` untuk menarik menjadi repository lokal `git pull`
 8. lakukan `push` untuk memposting.
 9. hasilnya adalah
+![screenshoot](https://github.com/SyahriRahmat/uaspy/blob/master/hasil.png)
